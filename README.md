@@ -58,3 +58,6 @@ helm install jenkins-demo jenkins/jenkins
 
 port-forward
 at 8080 
+
+
+refer this cheatsheet : https://helm.sh/docs/intro/cheatsheet/
