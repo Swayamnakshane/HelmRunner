@@ -1,0 +1,11 @@
+sudo apt-get update
+helm repo add
+helm repo update
+helm list
+helm list --all
+helm install <name> <chart>       
+kubectl get pod
+helm create <name>     
+helm uninstall <name>
+helm repo remove <name>
+refer this cheat sheet : https://helm.sh/docs/intro/cheatsheet/
